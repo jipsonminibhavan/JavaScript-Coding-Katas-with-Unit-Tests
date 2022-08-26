@@ -87,3 +87,4 @@ console.log(zipStrings("", "123")); // "123"
 
 console.log(zipStrings("abc", "")); // "abc"
 ```
+# JavaScript-Coding-Katas-with-Unit-Tests
